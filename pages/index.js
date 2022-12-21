@@ -13,10 +13,6 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      
-      
-
-
       <style jsx>{`
         main {
           padding: 5rem 0;
